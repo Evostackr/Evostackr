@@ -267,9 +267,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 * **GitHub:** [github.com/evostackr](https://github.com/evostackr)
-* **Website:** [evostackr.com](https://evostackr.in)
+* **Website:** [evostackr.in](https://evostackr.in)
 * **Email:** hello@evostackr.in
-* **LinkedIn:** [linkedin.com/company/evostackr](https://linkedin.com/company/evostackr.in)
+* **LinkedIn:** [linkedin.com/company/evostackr](https://linkedin.com/company/evostackr)
 * **Twitter/X:** [@evostackr](https://twitter.com/evostackr)
 
 ---
